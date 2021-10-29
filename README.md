@@ -2,7 +2,7 @@
 
 ## Hi, I´m Laura! 👋 :computer: 
 
-*Programming student at [Adalab](https://adalab.es/)* :books:
+*Developer student at [Adalab](https://adalab.es/)* :books:
 
 I have previously worked as a UX / UI designer and now, I have decided to take a professional turn and become a frontend developer. I switched to the technology sector to look for new challenges to give all my best, and to be able to grow professionally.
 Thanks to my previous laboral experience, I was was been able to be part of the process of creating a digital product from the beginning (working hand by hand with the dev team), and I have developed many skills that can fit perfectly in this journey.
