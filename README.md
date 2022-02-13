@@ -1,4 +1,5 @@
-![Cabecera Github](https://user-images.githubusercontent.com/93197904/139479838-d20468b9-f70d-4fa9-ae75-b325b17c736a.png)
+![GitHubProfile](https://user-images.githubusercontent.com/93197904/153762378-59586c69-6b24-4840-a403-c2ea6ad8c2e7.jpg)
+
 
 ## Hi, I´m Laura! 👋 :computer: 
 
