@@ -32,7 +32,7 @@ You can find me on [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.
 <br>
 
 <h3 align="left">Tools:</h3>
-<img align="left" alt="Github" title='Github' width="30px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1647112462~hmac=5fe9dc69347c1db0d87695e803f73d5f" />
+<img align="left" alt="Github" title='Github' width="30px" src="https://user-images.githubusercontent.com/93437541/156567140-3761f735-891f-4c82-98d7-990bd62b5a6e.png" />
 
 <img align="left" alt="Npm" title='Npm' width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
